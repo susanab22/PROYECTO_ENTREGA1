@@ -1,3 +1,2 @@
-# PROYECTO_accidentes_automovilísticos 
-README.md
-PROYECTO_ENTREGA1.PDF
+# README.md
+# PROYECTO_ENTREGA1.PDF
